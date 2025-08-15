@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+onnxruntime
+scikit-learn
+numpy
