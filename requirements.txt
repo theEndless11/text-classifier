@@ -4,3 +4,4 @@ transformers
 onnxruntime
 scikit-learn
 numpy
+pydantic
